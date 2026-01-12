@@ -1,43 +1,53 @@
-<h1 align="center">Hello, my name is Ibragim. I'm a Frontend Developer.</h1>
+<h1 align="center">Hi 👋, I'm Ibragim</h1>
+<h3 align="center">Frontend Developer</h3>
 
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scss" height="60" alt="scss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-</div>
-
-
-
-- React + TS + SCSS + ReduxToolkit [Pizza](https://pizzzaa-so9k.vercel.app/)
-
-- 🌱 I’m currently learning **creation of projects (React + TS + ReduxToolkit)**
-
-- js + scss + html [eatly](https://leafy-pothos-b8851d.netlify.app/)
-
-- js + scss + html [FutureTech](https://resilient-manatee-44696f.netlify.app)
-
-- 💬 About me **I have a secondary vocational education, and I am studying at a higher educational institution to become a front-end developer.**
-
-- 📫 How to reach me **ibragardwich@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+I build modern web applications using React, TypeScript and clean UI approaches.
 </p>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,vue,docker,sqlite" />
+</p>
+
+---
+
+### 🚀 Projects
+
+- **🍕 Pizza App**  
+  React + TypeScript + SCSS + Redux Toolkit  
+  👉 [Live Demo](https://pizzzaa-so9k.vercel.app/)
+
+- **🍔 Eatly**  
+  JavaScript + SCSS + HTML  
+  👉 [Live Demo](https://leafy-pothos-b8851d.netlify.app/)
+
+- **💻 FutureTech**  
+  JavaScript + SCSS + HTML  
+  👉 [Live Demo](https://resilient-manatee-44696f.netlify.app)
+
+---
+
+### 🌱 Currently Learning
+- Advanced React patterns
+- Redux Toolkit
+- Project architecture
+
+---
+
+### 👨‍💻 About Me
+- Secondary vocational education  
+- Currently studying at a higher educational institution  
+- Focused on becoming a professional Frontend Developer
+
+---
+
+### 📫 Contact Me
+- Email: **ibragardwich@gmail.com**
+
+---
+
+⭐ *Feel free to check out my repositories and projects!*

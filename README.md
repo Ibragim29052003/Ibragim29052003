@@ -21,7 +21,8 @@ I'll add more soon...
 
 - **🤖 TG bot (for TaSaHa)**  
   Python 3.12, FastAPI, aiogram 3, PostgreSQL, SQLAlchemy 2, Alembic, asyncpg, httpx, Pydantic
-Settings, cryptography, Docker Compose, pytest, Ruff, Wildberries API, Telegram Bot API. 
+Settings, cryptography, Docker Compose, pytest, Ruff, Wildberries API, Telegram Bot API.
+
   👉 [Live Demo](https://t.me/custom_wb_bot)
 
 - **🍕 Pizza App**  

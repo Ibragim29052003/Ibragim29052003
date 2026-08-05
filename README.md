@@ -23,7 +23,7 @@ I'll add more soon...
   Python 3.12, FastAPI, aiogram 3, PostgreSQL, SQLAlchemy 2, Alembic, asyncpg, httpx, Pydantic
 Settings, cryptography, Docker Compose, pytest, Ruff, Wildberries API, Telegram Bot API.
 
-  👉 [Live Demo](https://t.me/custom_wb_bot)
+  👉 [Live Demo](https://t.me/SellerStatusBot)
 
 
 - **🍕 Pizza App**  

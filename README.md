@@ -1,22 +1,22 @@
 <h1 align="center">Привет, я Ибрагим 👋</h1>
-<h3 align="center">Frontend Developer · React / TypeScript</h3>
+<h3 align="center">Fullstack Developer · React / TypeScript / Python</h3>
 
 <p align="center">
-Специализируюсь на frontend-разработке: создаю адаптивные, быстрые и удобные интерфейсы для веб-продуктов.
+Разрабатываю веб-приложения: от интерфейсов на React до API, интеграций и развёртывания.
 </p>
 
 <p align="center">
-Разбираюсь в API и серверной архитектуре, а backend для собственных проектов создаю с помощью AI-инструментов.
+Сильная сторона — frontend на React и TypeScript. Backend развиваю на практике в собственных продуктах на Django и FastAPI.
 </p>
 
 ---
 
 ### 👨‍💻 Обо мне
 
-- Моя основная специализация — frontend-разработка на React и TypeScript.
-- Разрабатываю продуктовые интерфейсы для e-commerce и аналитических сервисов: от структуры и компонентов до состояния приложения, адаптивности и UX.
-- Разбираюсь в REST API, базах данных и развертывании, поэтому могу уверенно интегрировать frontend с серверной частью.
-- Backend собственных проектов пишу с помощью AI-инструментов: продумываю архитектуру, проверяю результат и тестирую интеграции, но не позиционирую себя как backend-разработчик.
+- Создаю веб-продукты для e-commerce и аналитики: интерфейсы, работу с данными и интеграции с внешними сервисами.
+- В собственных проектах работаю с Python, Django, FastAPI и PostgreSQL, связываю клиентскую и серверную части и занимаюсь развёртыванием.
+- Разработал и запустил SellerStatus для продавцов Wildberries и сайт-каталог TaSaHa для бренда одежды.
+- Использую AI-инструменты в разработке: проверяю изменения и тестирую интеграции.
 - Получил среднее профессиональное образование, сейчас продолжаю обучение в вузе.
 
 ---
@@ -24,68 +24,87 @@
 ### 🛠 Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,vite,git" alt="Frontend stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,vite,git" alt="Frontend: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Vite, Git" />
 </p>
 
-**Основной стек:** React, TypeScript, JavaScript, Redux Toolkit, RTK Query, SCSS, Vite  
-**Frontend-практики:** компонентная архитектура, адаптивная верстка, REST API, accessibility, performance, тестирование  
-**AI-assisted backend для своих продуктов:** Python, Django, FastAPI, aiogram, SQLAlchemy, Alembic, PostgreSQL, Docker Compose, Nginx
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx" alt="Backend и инфраструктура: Python, Django, FastAPI, PostgreSQL, Docker, Nginx" />
+</p>
+
+**Frontend:** React, TypeScript, JavaScript, Redux Toolkit, RTK Query, React Router, HTML, SCSS, Vite  
+**Backend в собственных продуктах:** Python, Django, Django REST Framework, FastAPI, aiogram, SQLAlchemy, Alembic, PostgreSQL  
+**Тестирование:** Playwright, Jest, Vitest, Testing Library, pytest  
+**Инструменты и развёртывание:** Git, Docker Compose, Nginx
+
+---
+
+### 💼 Командный опыт
+
+**Циан · Frontend-разработчик, стажировка · июнь — сентябрь 2026**
+
+- Развивал интерфейсы продуктов «Циан.Сделка» и «Мой дом» на React и TypeScript.
+- Устранил перестроение интерфейса после загрузки данных: предложил серверное получение данных, согласовал изменение API и реализовал SSR с Redux и гидратацией.
+- Работал с A/B-экспериментами, подготовкой frontend-сервисов к Content Security Policy и E2E-тестами на Playwright.
 
 ---
 
 ### 🚀 Основные проекты
 
-#### 📊 SellerStatus — единая система для селлеров Wildberries
+#### 📊 SellerStatus — сервис для продавцов Wildberries
 
-Продуктовая экосистема из публичного сайта, закрытого веб-сервиса с аналитикой и Telegram-бота. Система получает данные из Wildberries API, формирует отчеты и отправляет уведомления.
+Собственный продукт: публичный сайт, закрытый веб-кабинет с аналитикой и Telegram-бот. MVP запущен в августе 2026 года; сервисом пользуются несколько продавцов.
 
-**Мой основной фокус:** интерфейс личного кабинета, frontend-архитектура, отображение аналитики, формы, состояние приложения, адаптивность и UX. Backend и интеграции развиваются в AI-assisted формате.
+- **Frontend:** отчёты, графики, фильтры, настройки уведомлений и работа с API через RTK Query.
+- **Backend и интеграции:** подключение нескольких WB-кабинетов, синхронизация данных с Wildberries API, обработка ограничений API и уведомления с защитой от дублей.
+- **Запуск:** Docker Compose, Nginx, health checks и защитные заголовки.
 
-**Frontend:** React 19, TypeScript, Redux Toolkit, Vite  
-**Система:** FastAPI, aiogram 3, PostgreSQL, SQLAlchemy 2, Alembic, Docker Compose, Wildberries API, Telegram Bot API
+**Frontend:** React, TypeScript, Redux Toolkit, RTK Query, Vite, SCSS  
+**Backend:** Python, FastAPI, aiogram, PostgreSQL, SQLAlchemy, Alembic
 
-[🌐 Публичный сайт](https://sellerstatus.ru) · [📈 Веб-сервис](https://app.sellerstatus.ru) · [🤖 Telegram-бот](https://t.me/SellerStatusBot)
+[🌐 Публичный сайт](https://sellerstatus.ru) · [📈 Веб-кабинет](https://app.sellerstatus.ru) · [🤖 Telegram-бот](https://t.me/SellerStatusBot)
 
-#### 👗 TaSaHa — frontend интернет-магазина одежды
+Демонстрация закрытого веб-кабинета — по запросу.
 
-Витрина товаров с каталогом, фильтрами, поиском, слайдерами и подробными страницами товаров. Основное внимание уделяю интерфейсу, пользовательским сценариям, скорости работы и адаптивности.
+#### 👗 TaSaHa — сайт-каталог бренда одежды
 
-**Frontend:** React, TypeScript, Vite, Redux Toolkit, RTK Query, SCSS  
-**AI-assisted backend:** Django, PostgreSQL, Docker, Wildberries API
+Проект для действующего бренда: каталог и страницы товаров с переходом на Wildberries для покупки.
 
-🌐 **Демо:** ссылка появится позже
+- **Frontend:** адаптивные страницы, поиск, фильтры с синхронизацией через URL, сортировка, пагинация и сравнение товаров.
+- **Backend:** Django API, управление контентом через Django admin и синхронизация каталога с Wildberries. Данные перенесены из Sanity на собственный backend.
+- **Запуск:** метаданные страниц, sitemap, оптимизация изображений и развёртывание в Docker за Nginx.
+
+**Frontend:** React, TypeScript, Redux Toolkit, RTK Query, Vite, SCSS  
+**Backend:** Python, Django, Django REST Framework, PostgreSQL
+
+[🌐 Открыть сайт](https://www.tasaha.ru)
 
 ---
 
 ### 🧩 Другие проекты
 
-- **👟 Sneakers Shop** — интернет-магазин с клиентской частью на TypeScript и SCSS и API на Python.  
+- **👟 Sneakers Shop** — учебный интернет-магазин с клиентской частью на TypeScript и SCSS и API на Django REST Framework.  
   [Исходный код](https://github.com/Ibragim29052003/sneakers-shop-api)
 
-- **🍕 Pizza App** — приложение для заказа пиццы на React, TypeScript и Redux Toolkit.  
+- **🍕 Pizza App** — React-приложение с каталогом, URL-фильтрами, пагинацией и корзиной.  
   [Демо](https://pizzzaa-so9k.vercel.app/) · [Исходный код](https://github.com/Ibragim29052003/pizza)
 
-- **🍔 Eatly** — адаптивный лендинг на JavaScript, SCSS и HTML.  
+- **🍔 Eatly** — адаптивный сайт на JavaScript, SCSS и HTML.  
   [Демо](https://leafy-pothos-b8851d.netlify.app/) · [Исходный код](https://github.com/Ibragim29052003/eatly)
 
-- **💻 3D FutureTech** — технологический лендинг на JavaScript, SCSS и HTML.  
+- **💻 3D FutureTech** — многостраничный информационный сайт на JavaScript, SCSS и HTML.  
   [Демо](https://resilient-manatee-44696f.netlify.app/) · [Исходный код](https://github.com/Ibragim29052003/3D-FutureTech)
 
 ---
 
 ### 🌱 Сейчас в фокусе
 
-- архитектура React-приложений и переиспользуемые компоненты;
-- UX, accessibility и производительность интерфейсов;
 - развитие SellerStatus и TaSaHa;
-- применение AI-инструментов для интеграций и backend-задач в собственных продуктах.
+- архитектура React-приложений и работа с API;
+- углубление Python, Django и FastAPI;
+- запросы к базам данных, права доступа и тестирование серверной логики.
 
 ---
 
 ### 📫 Контакты
 
-- Email: [ibragardwich@gmail.com](mailto:ibragardwich@gmail.com)
-
----
-
-⭐ Если вам интересны мои проекты, загляните в репозитории выше.
+Москва · [ibragardwich@gmail.com](mailto:ibragardwich@gmail.com)
